@@ -1,0 +1,3 @@
+## Installation Wordpress
+
+- composer update

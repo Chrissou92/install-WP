@@ -1,0 +1,15 @@
+{
+    "name": "christelle/two",
+    "authors": [
+        {
+            "name": "Chrissou",
+            "email": "nicolchristelle@gmail.com"
+        }
+    ],
+    "require": {
+        "johnpbloch/wordpress": "^4.9"
+    },
+    "extra": {
+        "wordpress-install-dir": "wp"
+    }
+}
